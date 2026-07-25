@@ -1,0 +1,21 @@
+HYPOTHESIS TEST RESULTS
+========================
+
+Test 1: T-Test (North vs South Regions)
+Result: No significant difference (p >= 0.05)
+
+Test 2: ANOVA (All Regions Comparison)
+Result: No significant difference among regions (p = 0.0972)
+
+Test 3: Correlation Significance (Quantity vs Total_Sales)
+Result: Significant correlation (p < 0.05)
+Correlation Coefficient: 0.69
+
+CONFIDENCE INTERVAL
+Average Sales: ₹123,650.48
+95% CI: (₹103,776.35, ₹143,524.61)
+Margin of Error: ±₹19,874.13
+
+REGRESSION ANALYSIS
+R-squared: 0.4735
+Interpretation: Quantity explains ~47% of variation in Total Sales
